@@ -1,0 +1,14 @@
+Goal: Get product information from giztop.com 
+URL: https://www.giztop.com/phones.html
+
+
+- get all products /
+    - get data at url /
+    - parse products from html /
+    - extract product page links /
+
+- get information from specific products 
+    - get data at url 
+    - parse data on page
+    - extract title, price, description
+
